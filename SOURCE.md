@@ -44,7 +44,7 @@ PARAGRAPH 3
 
 IMAGE 3 FILE
 
-`camels-in-truck.jpg`
+``
 
 IMAGE 3 ALT TEXT
 
